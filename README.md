@@ -18,7 +18,8 @@
 环境要求：Nightly Rust 1.69 以上
 
 ```shell
-cargo build
+# 必须构建为32位dll
+cargo build --target i686-pc-windows-msvc --release
 ```
 
 ## 免责声明
