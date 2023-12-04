@@ -15,7 +15,7 @@
 
 ## 构建教程
 
-环境要求：Nightly Rust 1.69 以上
+环境要求：Nightly Rust 1.60 (具体版本忘记了) 以上
 
 ```shell
 # 必须构建为32位dll
